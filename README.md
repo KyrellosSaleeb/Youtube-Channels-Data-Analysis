@@ -112,6 +112,18 @@ The dashboard was designed with **two pages**, providing insights into:
 
 # 🤖 Phase 2: Intelligent RAG Agent  
 
+<p align="center">
+  <a href="./rag_llm.py">
+    <img src="https://img.shields.io/badge/Python-Agent_Code-blue?logo=python" alt="View Agent Code">
+  </a>
+  <a href="./DataFiles/YouTube_Trending_Video_Dataset_Full_Report.pdf">
+    <img src="https://img.shields.io/badge/RAG-Source_PDF-red?logo=adobeacrobatreader" alt="View RAG PDF">
+  </a>
+  <a href="./youtube_trending_faiss/">
+    <img src="https://img.shields.io/badge/FAISS-Vector_DB-green?logo=database" alt="Browse Vector DB">
+  </a>
+</p>
+
 To enhance the accessibility of the analytics, we developed an **AI-powered Agent** using **Python, LangChain, and Groq**. This agent, run via a Streamlit interface, allows users to interact with the entire data ecosystem using natural language, abstracting the complexities of SQL, DAX, and project documentation.
 
 ### 🧠 How the Agent Works: A Detailed Flow
