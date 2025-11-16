@@ -172,10 +172,6 @@ The raw output from Step 3 (whether it's text from RAG or a DataFrame from SQL/D
 
 ---
 
----
-
----
-
 ## Agent Sample Response
 
 <table align="center">
