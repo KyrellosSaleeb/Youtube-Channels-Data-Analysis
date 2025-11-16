@@ -174,17 +174,25 @@ The raw output from Step 3 (whether it's text from RAG or a DataFrame from SQL/D
 
 ---
 
+---
+
 ## Agent Sample Response
 
-<p align="center">
-  <strong>RAG (Documentation) Query</strong><br>
-  <img src="YK Analysis Agent/Agent Response Samples/Rag Video.gif" alt="RAG agent answering a documentation (RAG) question">
-</p>
-<p align="center">
-  <strong>SQL (Data Warehouse) Query</strong><br>
-  <img src="YK Analysis Agent/Agent Response Samples/SQL Video.gif" alt="RAG agent answering a SQL question">
-</p>
-<p align="center">
-  <strong>DAX (Semantic Model) Query</strong><br>
-  <img src="YK Analysis Agent/Agent Response Samples/DAX Video.gif" alt="RAG agent answering a DAX question">
-</p>
+<table align="center">
+  <tr>
+    <td align="center"><strong>RAG (Documentation) Query</strong></td>
+    <td align="center"><strong>SQL (Data Warehouse) Query</strong></td>
+    <td align="center"><strong>DAX (Semantic Model) Query</strong></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="YK Analysis Agent/Agent Response Samples/Rag Video.gif" alt="RAG agent answering a documentation (RAG) question" width="250">
+    </td>
+    <td align="center">
+      <img src="YK Analysis Agent/Agent Response Samples/SQL Video.gif" alt="RAG agent answering a SQL question" width="250">
+    </td>
+    <td align="center">
+      <img src="YK Analysis Agent/Agent Response Samples/DAX Video.gif" alt="RAG agent answering a DAX question" width="250">
+    </td>
+  </tr>
+</table>
